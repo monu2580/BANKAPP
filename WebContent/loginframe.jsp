@@ -18,9 +18,11 @@
 	
 </script>
 </head>
-<body>
-<center>
-<a href="home.jsp" id="alogin" onmouseover="check()" onclick="parent.content.location='login.jsp" ><h1>Login</h1></a>
-</center>
-</body>
+	<body>
+		
+		<center>
+		<a href="home.jsp" id="alogin" onmouseover="check()" onclick="parent.content.location='login.jsp" ><h1>Login</h1></a>
+		</center>
+		
+	</body>
 </html>
