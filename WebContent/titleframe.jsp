@@ -11,7 +11,7 @@
     <body>
         
         <center>
-        <h1>Banking App</h1>
+            <h1>Banking App</h1>
         </center>
         
     </body>
