@@ -1,10 +1,15 @@
 # BANKAPP DEMO
 
+<<<<<<< HEAD
 ## Hi
 
 ![Screenshot 2019-07-12 at 5 29 37 PM](https://user-images.githubusercontent.com/30049228/62412677-afbcb000-b623-11e9-8d99-4794a0b41b43.png)
+=======
+>>>>>>> gaurav
 
+![Screenshot 2019-07-12 at 5 29 37 PM](https://user-images.githubusercontent.com/30049228/62412677-afbcb000-b623-11e9-8d99-4794a0b41b43.png)
 
+##Hello Gaurav here
 
 ![Screenshot 2019-07-12 at 5 30 52 PM](https://user-images.githubusercontent.com/30049228/62412691-d0850580-b623-11e9-80f7-8fcb6f20527d.png)
 
